@@ -18,6 +18,8 @@ This talk builds on what you already know about parameter tuning to dive deeper 
 
 ## Support Vector Machines
 
+![A Practical Guide to Support Vector Classification](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
+
 ![Support Vector Machines for Business Applications](https://www.researchgate.net/publication/37617731_Support_Vector_Machines_for_Business_Applications)
 
 ![Statistical Performance of Support Vector Machines](https://arxiv.org/pdf/0804.0551.pdf)
@@ -33,6 +35,8 @@ This talk builds on what you already know about parameter tuning to dive deeper 
 ## Particle Swarm Optimization
 
 ![SVM Parameters Tuning with Quantum Particles Swarm Optimization](http://ieeexplore.ieee.org/document/4670970/)
+
+![Particle swarm optimization for parameter determination and feature selection of support vector machines](http://romisatriawahono.net/lecture/rm/paper/Lin%20-%20Parameter%20determination%20and%20feature%20selection%20for%20SVM%20by%20PSO%20-%202009.pdf)
 
 ## Other
 
