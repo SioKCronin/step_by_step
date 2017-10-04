@@ -8,7 +8,8 @@ This talk builds on what you already know about parameter tuning to dive deeper 
 
 ![Stochastic Multi-Armed Bandits](http://www.shivani-agarwal.net/Teaching/E0370/Aug-2013/Lectures/22.pdf)
 
-![Probalisitc Traveling Salesman Problem](
+![New approaches for solving the
+Probabilistic Traveling Salesman Problem](http://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/thesis/dea/BianchiDEA.pdf)
 
 ## Parameter tuning
 
