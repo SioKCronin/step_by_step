@@ -26,7 +26,8 @@ This talk builds on what you already know about parameter tuning to dive deeper 
 
 ## Stochastic Gradient Descent 
 
-
+![Breaking the Curse of Kernelization: Budgeted Stochastic Gradient
+Descent for Large-Scale SVM Training](http://www.dabi.temple.edu/budgetedsvm/pdfs/bsgd2012_jmlr.pdf)
 
 ## Simulated Annealing
 
@@ -41,4 +42,5 @@ This talk builds on what you already know about parameter tuning to dive deeper 
 ## Other
 
 ![Perspective: Energy Landscapes for Machine Learning](https://arxiv.org/abs/1703.07915)
+
 ![Efficient Tuning of SVM Hyperparameters Using Radius/Margin Bound and Iterative Algorithms](http://ieeexplore.ieee.org/document/1031955/)
