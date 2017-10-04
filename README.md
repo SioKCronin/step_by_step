@@ -1,8 +1,6 @@
 # Step by Step
 
-
-
-
+This talk builds on what you already know about parameter tuning to dive deeper into the world of stochastic optimization. In particular, we’ll explore a range of methods, including stochastic gradient descent, simulated annealing, and particle swarm optimization, and cultivated intuition on how these approaches work, when they can be applied, what their underlying topologies look like, and how you can get the best performance out of them.
 
 # Resources
 
@@ -20,7 +18,7 @@
 
 ## Support Vector Machines
 
-![Statistical Performance of Support Vector Machines](https://arxiv.org/pdf/0804.0551.pdf) "SVM can be viewed as a statistical regularization procedure"
+![Statistical Performance of Support Vector Machines](https://arxiv.org/pdf/0804.0551.pdf)
 
 ## Stochastic Gradient Descent 
 
@@ -32,7 +30,7 @@
 
 ## Particle Swarm Optimization
 
-![SVM Parameters Tuning with Quantum Particles Swarm Optimization](http://ieeexplore.ieee.org/document/4670970/) Used to tune least-squares support vetor machines (LS-SVM). 
+![SVM Parameters Tuning with Quantum Particles Swarm Optimization](http://ieeexplore.ieee.org/document/4670970/)
 
 ## Other
 
