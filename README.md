@@ -18,6 +18,7 @@ This talk builds on what you already know about parameter tuning to dive deeper 
 
 ## Support Vector Machines
 
+![Support Vector Machines for Business Applications](https://www.researchgate.net/publication/37617731_Support_Vector_Machines_for_Business_Applications)
 ![Statistical Performance of Support Vector Machines](https://arxiv.org/pdf/0804.0551.pdf)
 
 ## Stochastic Gradient Descent 
