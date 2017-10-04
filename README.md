@@ -8,6 +8,8 @@ This talk builds on what you already know about parameter tuning to dive deeper 
 
 ![Stochastic Multi-Armed Bandits](http://www.shivani-agarwal.net/Teaching/E0370/Aug-2013/Lectures/22.pdf)
 
+![Probalisitc Traveling Salesman Problem](
+
 ## Parameter tuning
 
 ![Sklearn thoughts on tuning](http://scikit-learn.org/stable/modules/grid_search.html)
@@ -34,6 +36,8 @@ Descent for Large-Scale SVM Training](http://www.dabi.temple.edu/budgetedsvm/pdf
 ![SVM Parameters Tuning with Quantum Particles Swarm Optimization](http://ieeexplore.ieee.org/document/4670970/)
 
 ![Particle swarm optimization for parameter determination and feature selection of support vector machines](http://romisatriawahono.net/lecture/rm/paper/Lin%20-%20Parameter%20determination%20and%20feature%20selection%20for%20SVM%20by%20PSO%20-%202009.pdf)
+
+![Accelerated Particle Swarm Optimization and Support Vector Machine for Business Optimization and Applications](https://link.springer.com/chapter/10.1007/978-3-642-22185-9_6)
 
 ## Other
 
