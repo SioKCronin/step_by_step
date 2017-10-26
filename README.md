@@ -1,6 +1,8 @@
-# Step by Step
+# Step by Step: How and when to use Stochastic Optimization
 
-This talk builds on what you already know about parameter tuning to dive deeper into the world of stochastic optimization. In particular, we’ll explore a range of methods, including stochastic gradient descent, simulated annealing, and particle swarm optimization, and cultivated intuition on how these approaches work, when they can be applied, what their underlying topologies look like, and how you can get the best performance out of them.
+This talk was given at Metis (San Francisco) on October 11, 2017. The livestream can be viewed here: https://livestream.com/metis/events/7706066
+
+This material builds on what you already know about parameter tuning to dive deeper into the world of stochastic optimization. In particular, we’ll explore a range of methods, including stochastic gradient descent, simulated annealing, and particle swarm optimization, and cultivated intuition on how these approaches work, when they can be applied, what their underlying topologies look like, and how you can get the best performance out of them.
 
 # Resources
 
